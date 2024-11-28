@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  I’m *Hoor Mahmoud*, a Computer Science student at Sadat City University with a passion for software development, networking, and AI.
+  I’m Hoor Mahmoud, a Computer Science student at Sadat City University with a passion for software development, networking, and AI.
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@
 </p>
 
 <p>
-  I am aiming to be a *Flutter Developer* and create impactful projects that make a difference in the tech industry.
+  I am aiming to be a Flutter Developer and create impactful projects that make a difference in the tech industry.
 </p>
 
-- 🔭 I’m currently enhancing my skills in *Flutter* to build cross-platform mobile applications.
-- 🌱 I’m also learning *Assembly, **Microprocessors, and **Networking* as part of my academic journey.
-- 💬 Feel free to ask me about *structured programming, **networking concepts, or **Flutter development*.
+- 🔭 I’m currently enhancing my skills in Flutter to build cross-platform mobile applications.
+- 🌱 I’m also learning Assembly, **Microprocessors, and **Networking as part of my academic journey.
+- 💬 Feel free to ask me about structured programming, **networking concepts, or **Flutter development.
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/hoor-mahmoud-0b4aa82bb/)
 
 ---
@@ -35,6 +35,6 @@
 ---
 
 ## 📈 Current Goals:
-- Build and deploy my first *Flutter* app.
+- Build and deploy my first Flutter app.
 - Contribute to open-source projects.
 - Rank among the top students in my class.
