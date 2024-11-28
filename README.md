@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
 </p>
 
-I'm a passionate *Flutter Developer* and a Computer Science student at *Sadat City University. I'm focusing on building impactful cross-platform mobile applications using **Flutter* and *Dart*.
+I'm a passionate *Flutter Developer* and a Computer Science student at *Sadat City University. I'm focusing on building impactful cross-platform mobile applications using **Flutter** and **Dart**.
 
 - 🔭 I’m currently working on *Flutter* to build interactive mobile apps.
 - 🌱 I’m learning **Assembly**, **Microprocessors**, and **Networking** as part of my academic journey.
