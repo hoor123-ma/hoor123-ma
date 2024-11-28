@@ -7,9 +7,7 @@
 I’m *Hoor Mahmoud*, a Computer Science student at Sadat City University with a passion for software development, networking, and AI. 
 
 <p align="center">
-  <span style="font-size: 30px; font-weight: bold; color: #02569B; animation: typing 3s steps(25) 1s forwards, blink 0.75s step-end infinite;">
-    Flutter Developer
-  </span>
+  <img src="https://example.com/flutter_developer.gif" alt="Flutter Developer Animation" width="300">
 </p>
 
 I am aiming to be a *Flutter Developer* and create impactful projects that make a difference in the tech industry.
