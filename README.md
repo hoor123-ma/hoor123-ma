@@ -7,8 +7,8 @@
 I'm a passionate *Flutter Developer* and a Computer Science student at *Sadat City University. I'm focusing on building impactful cross-platform mobile applications using **Flutter* and *Dart*.
 
 - 🔭 I’m currently working on *Flutter* to build interactive mobile apps.
-- 🌱 I’m learning *Assembly, **Microprocessors, and **Networking** as part of my academic journey.
-- 💬 Ask me about *structured programming, **networking, and **Flutter development*.
+- 🌱 I’m learning **Assembly**, **Microprocessors**, and **Networking** as part of my academic journey.
+- 💬 Ask me about **structured programming**, **networking**, and **Flutter development**.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/hoor-mahmoud-0b4aa82bb/)
 
 ---
