@@ -40,9 +40,4 @@ I’m a Computer Science student at Sadat City University, passionate about soft
 
 ---
 
-## 📝 My Blog & Projects:
 
-Check out my personal website and some of my projects:
-
-- [Website](https://readersrealm.com)  
-- [Instagram](https://instagram.com/وذكر)
