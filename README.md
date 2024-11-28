@@ -6,9 +6,12 @@
 
 I’m *Hoor Mahmoud*, a Computer Science student at Sadat City University with a passion for software development, networking, and AI. I aim to become a skilled 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Flutter Developer Animation" width="200">
+  <span style="font-size: 30px; font-weight: bold; color: #02569B; animation: typing 3s steps(25) 1s forwards, blink 0.75s step-end infinite;">
+    Flutter Developer
+  </span>
 </p>
-and create impactful projects.
+
+and create impactful projects that make a difference in the tech industry.
 
 - 🔭 I’m currently enhancing my skills in *Flutter* to build cross-platform mobile applications.
 - 🌱 I’m also learning *Assembly, **Microprocessors, and **Networking* as part of my academic journey.
@@ -28,14 +31,6 @@ and create impactful projects.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Coding Animation">
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoor123-ma&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoor123-ma&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
