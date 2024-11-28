@@ -8,9 +8,6 @@
   I’m *Hoor Mahmoud*, a Computer Science student at Sadat City University with a passion for software development, networking, and AI.
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flutter_logo_2021.svg" width="300" alt="Flutter Logo">
-</p>
 
 <p>
   I am aiming to be a *Flutter Developer* and create impactful projects that make a difference in the tech industry.
