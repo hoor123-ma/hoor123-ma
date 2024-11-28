@@ -4,14 +4,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
 </p>
 
-I’m *Hoor Mahmoud*, a Computer Science student at Sadat City University with a passion for software development, networking, and AI. I aim to become a skilled 
+I’m *Hoor Mahmoud*, a Computer Science student at Sadat City University with a passion for software development, networking, and AI. 
+
 <p align="center">
   <span style="font-size: 30px; font-weight: bold; color: #02569B; animation: typing 3s steps(25) 1s forwards, blink 0.75s step-end infinite;">
     Flutter Developer
   </span>
 </p>
 
-and create impactful projects that make a difference in the tech industry.
+I am aiming to be a *Flutter Developer* and create impactful projects that make a difference in the tech industry.
 
 - 🔭 I’m currently enhancing my skills in *Flutter* to build cross-platform mobile applications.
 - 🌱 I’m also learning *Assembly, **Microprocessors, and **Networking* as part of my academic journey.
