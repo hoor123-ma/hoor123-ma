@@ -35,7 +35,7 @@ I'm a passionate *Flutter Developer* and a Computer Science student at **Sadat C
 
 ## 📚 Current Goals:
 
-- Build and deploy my first *Flutter* app.
+- Build and deploy *Flutter* apps.
 - Contribute to *open-source projects*.
 - Rank among the top students in my class.
 
