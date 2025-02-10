@@ -4,18 +4,14 @@
 
 🚀 Aspiring **Flutter Developer**, passionate about creating cross-platform mobile applications using Flutter and Dart.
 📱 Currently learning **Flutter Framework** to build beautiful and responsive mobile apps.
-📖 Exploring **Data Structures & Algorithms** to enhance my problem-solving skills.
+
 
 ## 🔧 Tech Stack
 
-- 🌐 **Languages:** Dart
+- 🌐 **Languages:** Dart,C++
 - 📱 **Framework:** Flutter
 - 💻 **Tools & Platforms:** VS Code, Android Studio, Git, GitHub
 
-## 📌 Current Projects
-
-- **Business Card App** - A Flutter app for digital business cards.
-- **Other Flutter Projects** - Working on various UI and functional components to enhance my Flutter skills.
 
 ## 🚀 What I'm Learning
 
